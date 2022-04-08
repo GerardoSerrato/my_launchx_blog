@@ -1,6 +1,6 @@
 ---
 title: "La Cultura de un Desarrollador de Software"
-date: 2022-04-08T18:16:38-06:00
+date: 2022-02-21T18:16:21-06:00
 description: 'Los desarrolladores de Software comparten valores entre ellos'
 ---
 
