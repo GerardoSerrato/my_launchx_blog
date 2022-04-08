@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gerardo Serrato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardoserrato.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://gerardoserrato.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Cultura de un Desarrollador de Software</title>
+      <link>https://gerardoserrato.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://gerardoserrato.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Dentro del mundo del desarrollo de Software, considero que se deben desarrollar diferentes valores:
+ Cooperación Empatía Honestidad Resiliencia  Sin alguno de estos valores, es posible que el crecimiento individual se vea menguado y entorpecido.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://gerardoserrato.github.io/my_launchx_blog/pages/about/</link>
