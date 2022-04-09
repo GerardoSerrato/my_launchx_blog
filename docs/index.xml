@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gerardo Serrato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://gerardoserrato.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gerardoserrato.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El camino hasta aquí</title>
+      <link>https://gerardoserrato.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerardoserrato.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>En esta entrada de blog podré exponer lo que he aprendido hasta el momento, pasando desde reforzar aprendizajes en el OnBoarding hasta esta primer semana en Backend.
+La lista es muy larga, pero colocaré los puntos que más me han quedado:
+ Reforzamiento de conocimientos en Python. Uso de excepciones en códigos. Primeros pasos a una correcta organización y desarrollo de UI/UX. Maquetación con HTML. Uso de recursos para diseño de UI.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://gerardoserrato.github.io/my_launchx_blog/posts/intro/</link>
